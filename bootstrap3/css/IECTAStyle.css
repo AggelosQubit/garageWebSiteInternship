@@ -1,0 +1,28 @@
+body{background:black;}
+
+#navDuMenu {margin:0px;padding-top:10px;padding-bottom:10px;background: #ffa84c; /* Old browsers */filter :none;border :none;}
+
+#navDuMenu  a{color:black;background:none;text-shadow: 2px 2px 2px #ffffff;}
+
+.tdAChangerForfait a {	color:black; background: #ffa84c; font-weight:bold;}
+.tdAChangerForfait a:hover{	color:#ffa84c; background: black; }
+
+#btnAChanger {	color:black; background: #ffa84c; /* Old browsers */}
+#btnAChanger a:hover{	color:#ffa84c; background: black; /* Old browsers */}
+
+#navDuMenu > li > a:hover{color:white;text-shadow: 2px 2px 2px #000000;}
+.lienANeutrer{color:#ffa84c;}
+
+.glyphAChanger{	color:#ffa84c;	font-size:1.2em;}
+.divAcolorier{	background:silver;}
+
+
+#desc{	font-size:16px;}
+
+#divAChanger a{ color:black; text-decoration:none; background:none; }
+#divAChanger a:hover{color:black; font-weight:bold; background:none; }
+#dataTargetId{color:orange;}
+
+.paraContact{	font-weight:bold;	/*color:#ffa84c;*/}
+.aggelos-divider{border-right:solid 3px orange;}
+.aggelos-divider a{	text-decoration:none;	color:black;}

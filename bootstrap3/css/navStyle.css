@@ -1,0 +1,26 @@
+.navbar-inner{
+	background:none;
+	filter :none;
+	border:none;
+	background-color:black;
+	padding-top:10px;
+	padding-bottom:10px
+}
+.navbar .nav > li > a {
+	Color:red;
+}
+
+.navbar .nav > li > a:hover{
+	Color:blue;
+}
+.navbar .nav .active > a{
+	Color:blue;
+	background:none;
+}
+.navbar .nav .active > a:hover{
+	background:none;
+}
+.navbar .divider-vertical{
+	border-left:1px solid yellow;
+	border-right:1px solid yellow;
+}
